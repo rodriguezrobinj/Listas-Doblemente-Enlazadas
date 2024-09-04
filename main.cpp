@@ -178,4 +178,5 @@ void imprimir_lista(Nodo *cab, Nodo *ult) {
 	};
 	printf("NULL  \n");
 }
+//
 
