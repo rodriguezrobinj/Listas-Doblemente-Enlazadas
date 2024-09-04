@@ -160,7 +160,7 @@ int main() {
         }
     } while (opcion != 4);
 }
-
+//
 void imprimir_lista(Nodo *cab, Nodo *ult) {
 	Nodo *q = cab;
     cout << "se imprime la lista de izquierda a derecha";
